@@ -2,4 +2,4 @@ preview:
 	npx quartz build --serve
 
 sync:
-	npx quartz sync
+	npx quartz sync --no-pull
