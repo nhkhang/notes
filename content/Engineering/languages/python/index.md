@@ -1,5 +1,6 @@
 ---
 title: Python
-tags: [moc]
+tags:
+  - moc
 ---
 
