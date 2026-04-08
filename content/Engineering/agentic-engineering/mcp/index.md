@@ -1,5 +1,0 @@
----
-title: MCP
-tags: [moc]
----
-
